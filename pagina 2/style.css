@@ -1,0 +1,21 @@
+body {
+  background-color: #ce93d8;
+}
+.box {
+  background-color: #333;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  min-height: 1500px;
+  max-height: 1500px;
+}
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+.contact1 {
+  font-size: 75px;
+  text-align: center;
+  color: #D3D1DB;
+}
